@@ -1,0 +1,22 @@
+{
+    "name": "chill-night",
+    "displayName": "Chill Night",
+    "description": "Soft dark theme, think hazy version of firefox dev tools",
+    "version": "0.0.1",
+    "publisher": "davidsword",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Chill Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Chill Night-color-theme.json"
+            }
+        ]
+    }
+}
